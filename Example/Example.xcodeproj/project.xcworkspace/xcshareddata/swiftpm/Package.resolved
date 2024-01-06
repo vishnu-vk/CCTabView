@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cctabview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vishnu-vk/CCTabView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dd25dddefabbc92e1839a62af89c5b012ee0cb05"
+      }
+    }
+  ],
+  "version" : 2
+}
